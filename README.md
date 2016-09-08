@@ -1,2 +1,3 @@
 # hello-world
 1st Repository
+This is my first time to use github, so I don't really have ideas on how to use github. I am looking forward that one day I would know better on how to really use github.....
